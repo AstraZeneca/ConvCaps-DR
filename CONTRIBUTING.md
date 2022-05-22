@@ -1,0 +1,1 @@
+The purpose of this project is to provide the proof of concept for the related publication. Feel free to raise any issue via GitHub, although the project is not meant to be continued in this repository.
